@@ -1,36 +1,10 @@
 hexo-theme-yilia
 ================
+为了方便在其他机器上使用，直接把配置好的Yilia主题放在github上。
 
+下面为作者写的readme文档:
 Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
-崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](http://litten.me/) 查看效果。           
- 
-如果想体验手机浏览效果，可以扫一下二维码：
 
-![litten-qrcode](https://cloud.githubusercontent.com/assets/2024949/6349328/51a067fe-bc64-11e4-881c-f68050c50c28.png)
-
-—————————————————————
-
-**关于主题：**
-
-1. 崇尚简约       
-2. 追求移动端体验     
-3. 希望把加载速度做到极致（努力中）    
-4. 让大家把注意力放到内容上。这是本主题设计初衷      
-5. 主题不支持IE6，7，8。以后也不会     
-
-**近期更新（2016.12.04）：**
-
-1. 打赏
-2. 搜索
-3. “更好的”标签云
-4. “更好的”分享
-5. 一些动画
-
-**计划中：**
-
-1. TOC
-2. 移动端优化
-             
 ## 一、外观
 
 ####**常规**
@@ -106,7 +80,7 @@ rss: /atom.xml
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-root: 
+root:
 
 # Content
 
@@ -127,9 +101,9 @@ reward_type: 2
 # 打赏wording
 reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: 
+alipay:
 # 微信二维码图片地址
-weixin: 
+weixin:
 
 # Miscellaneous
 baidu_analytics: ''
@@ -157,7 +131,7 @@ style:
 slider:
   # 是否默认展开tags板块
   showTags: false
-  
+
 # 智能菜单
 # 如不需要，将该对应项置为false
 # 比如
@@ -176,7 +150,4 @@ friends:
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
 ```
-
-
